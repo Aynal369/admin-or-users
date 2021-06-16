@@ -1,0 +1,19 @@
+// Authentication
+@import "../Authentication/Login/Login.scss";
+@import "../Authentication/Signup/Signup.scss";
+//
+// Sections
+@import "../Components/Sections/Welcome/WelcomeMessage.scss";
+//
+// Dashboard
+@import "../Components/Dashboard/Dashboard.scss";
+//
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+}
